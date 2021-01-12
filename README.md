@@ -1,2 +1,2 @@
-# spark-nb
-An implementation of Naive Bayes classifier using Apache Spark
+## spark-nb
+A distributed implementaiton of the naive-bayes document classifier using Apache Spark.
